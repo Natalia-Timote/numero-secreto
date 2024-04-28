@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&family=Vast+Shadow&display=swap');
+
+:root {
+    --font-family: "Platypi", serif;
+    --bg-color: #00224D;
+    --primary-color: #F3F8FF;
+    --secondary-color: #FF204E;
+    --terciary-color: #A0153E;
+    --quaternary-color: #5D0E41;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font-family);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h3 {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.mensagem {
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+.box {
+    font-size: 4em;
+    border: 2px solid var(--primary-color);
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+}
