@@ -1,10 +1,10 @@
 const minValue = 1;
-const maxValue = 100;
+const maxValue = 1000;
 
 const secretNumber = newSecretNumber();
 
 function newSecretNumber() {
-    return parseInt(Math.random * maxValue + 1);
+    return parseInt(Math.random() * maxValue + 1);
 }
 
 const elementMinValue = document.getElementById(min-value);
