@@ -4,9 +4,9 @@
     --font-family: "Platypi", serif;
     --bg-color: #00224D;
     --primary-color: #F3F8FF;
-    --secondary-color: #FF204E;
+    --secondary-color: #5D0E41;
     --terciary-color: #A0153E;
-    --quaternary-color: #5D0E41;
+    --quaternary-color: #FF204E;
 }
 
 body {
@@ -46,4 +46,14 @@ h3 {
     display: inline-block;
     padding: 10px;
     margin: 20px;
+}
+
+.play-again__btn {
+    background-color: transparent;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+    font-size: 24px;
+    padding: 8px 16px;
+    margin-top: 36px;
+    cursor: pointer;
 }
