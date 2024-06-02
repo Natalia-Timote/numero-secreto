@@ -1,8 +1,8 @@
 # Jogo do Número Secreto
 
-![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
-
   O jogo do Número Secreto foi desenvolvido através do curso "JavaScript: validações e reconhecimento de voz", da Alura.
+
+![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
 <hr>
 
