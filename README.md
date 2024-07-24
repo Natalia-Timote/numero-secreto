@@ -20,6 +20,3 @@
 
 ## Visualização do projeto
 <a href="https://numero-secreto-pink-two.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
-
-
-
