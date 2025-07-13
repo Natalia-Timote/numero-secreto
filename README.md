@@ -17,7 +17,7 @@ O jogo utiliza **JavaScript, HTML e CSS**, com foco na manipulação de eventos,
 
 ## 📚 Objetivos do Curso
 
-* Descobrir como aplicar **validações** em seus projeto com JavaScript;
+* Descobrir como aplicar **validações** com JavaScript;
 * Criar um projeto com **HTML, CSS e JavaScript** do zero;
 * Aprender a utilizar **funções build-in** do JavaScript;
 * Aplicar **reconhecimento de voz** com JavaScript;
@@ -25,7 +25,7 @@ O jogo utiliza **JavaScript, HTML e CSS**, com foco na manipulação de eventos,
 
 ## 🛠️ Tecnologias Utilizadas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
 
 ## 🖼️ Visualização do Projeto
 
@@ -41,19 +41,19 @@ O projeto está disponível para visualização na **Vercel**. Clique no link ab
 
 Interface principal onde o jogador inicia a partida.
 
-![Tela inicial do jogo](app/img/numero-secreto-inicio.png)
+<img src="app/img/numero-secreto-inicio.png" width="600" alt="Tela Inicial do Jogo"/>
 
 **🗣️ Reconhecimento de Voz**
 
 Demonstração da funcionalidade de reconhecimento de voz para adivinhar o número.
 
-![Tela inicial do jogo](app/img/numero-secreto-maior.png)
+<img src="app/img/numero-secreto-maior.png" width="600" alt="Reconhecimento de voz - número maior"/>
 
-![Tela inicial do jogo](app/img/numero-secreto-menor.png)
+<img src="app/img/numero-secreto-menor.png" width="600" alt="Reconhecimento de voz - número menor"/>
 
 **✅ Mensagem de Acerto**
 
 Tela exibida quando o jogador acerta o número secreto.
 
-![Tela de acerto](app/img/numero-secreto-acertou.png)
+<img src="app/img/numero-secreto-acertou.png" width="600" alt="Mensagem de acerto"/>
 
